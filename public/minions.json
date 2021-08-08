@@ -1,0 +1,188 @@
+{
+    "acacia": {
+        "resource": "acacia_wood",
+        "tiers": {
+            "tier_1": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_2": {
+                "cooldown": "48",
+                "max_storage": "192",
+                "cost": "160",
+                "acumulativeCost": "240",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_3": {
+                "cooldown": "45",
+                "max_storage": "192",
+                "cost": "320",
+                "acumulativeCost": "560",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_4": {
+                "cooldown": "45",
+                "max_storage": "192",
+                "cost": "320 ",
+                "acumulativeCost": "560",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_5": {
+                "cooldown": "42",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_6": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_7": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_8": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_9": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_10": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_11": {
+                "cooldown": "48",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            }
+        }
+    },
+    "cobblestone": {
+        "resource": "cobblestone",
+        "tiers": {
+            "tier_1": {
+                "cooldown": "14",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_2": {
+                "cooldown": "14",
+                "max_storage": "192",
+                "cost": "160",
+                "acumulativeCost": "240",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_3": {
+                "cooldown": "12",
+                "max_storage": "192",
+                "cost": "320",
+                "acumulativeCost": "560",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_4": {
+                "cooldown": "12",
+                "max_storage": "192",
+                "cost": "320 ",
+                "acumulativeCost": "560",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_5": {
+                "cooldown": "10",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_6": {
+                "cooldown": "10",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_7": {
+                "cooldown": "9",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_8": {
+                "cooldown": "9",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_9": {
+                "cooldown": "8",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_10": {
+                "cooldown": "8",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            },
+            "tier_11": {
+                "cooldown": "7",
+                "max_storage": "64",
+                "cost": "80",
+                "acumulativeCost": "80",
+                "enchantedItem": false,
+                "enchantedBlock": false
+            }
+        }
+    }
+}
